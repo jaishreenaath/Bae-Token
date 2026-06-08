@@ -33,7 +33,7 @@ import java.util.Set;
 import static constants.ConstantClass.*;
 
 
-public class Basic extends BaseSetup
+public class BasicTest extends BaseSetup
 {
 	
 	PageMannerClass pm;

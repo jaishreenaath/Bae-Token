@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="pages.Basic">
+      <class name="pages.BasicTest">
         <methods>
           <include name="start"/>
           <include name="kyc"/>
         </methods>
-      </class> <!-- pages.Basic -->
+      </class> <!-- pages.BasicTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
